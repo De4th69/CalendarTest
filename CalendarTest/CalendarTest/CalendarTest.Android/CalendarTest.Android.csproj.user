@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>Samsung GT-N7100</SelectedDevice>
     <DefaultDevice>4.7" Lollipop %285.1.1%29 XXHDPI Phone</DefaultDevice>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
